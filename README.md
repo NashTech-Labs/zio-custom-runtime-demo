@@ -17,8 +17,8 @@ In this class, the custom runtime is created using two different ways:
 The first one is created using `Runtime` constructor.
 The runtime constructor takes two arguments-
 <UL>
-<li>**Environment**- created by mapping the type of services and their implementations.</li>
-<li>**Platform**- selecting the default platform</li>
+<li><B>Environment</B>- created by mapping the type of services and their implementations.</li>
+<li><B>Platform</B>- selecting the default platform</li>
 </UL>
 </li>
 
